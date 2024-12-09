@@ -1,4 +1,5 @@
 Proyecto final - Lucas Esteban
+
 Análisis de satisfacción de clientes de una aerolínea
 El presente proyecto tiene como objetivo principal analizar y predecir la satisfacción de los clientes de una aerolínea en función de diversas características relacionadas con su experiencia de vuelo. A través de un enfoque de clasificación, 
 se busca identificar patrones que influyen en el nivel de satisfacción de los pasajeros y proporcionar información clave para la toma de decisiones estratégicas.
